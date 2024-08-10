@@ -1,0 +1,1 @@
+# Eathquake-prediction-model-using-Deep-Learning
